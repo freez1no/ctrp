@@ -5,7 +5,7 @@ const userInput = document.querySelector('#user-input input');
 // 전송 버튼
 const sendButton = document.querySelector('#user-input button');
 // 발급받은 OpenAI API 키를 변수로 저장
-const apiKey = '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';
+const apiKey = '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';
 // OpenAI API 엔드포인트 주소를 변수로 저장
 const apiEndpoint = 'https://api.openai.com/v1/chat/completions';
 // 이전 대화 저장 배열
